@@ -1,0 +1,13 @@
+{
+  "name": "hotel-rooms-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "In-memory Hotel Rooms REST API for the A5 placement assessment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
